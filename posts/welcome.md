@@ -1,0 +1,2 @@
+# Welcome to my blog!
+I will try to write here and not forget about it. I hope you will enjoy my posts. If you have any questions, feel free to ask me. I will try to answer them as soon as possible. Have a nice day!

@@ -1,16 +1,16 @@
 Information:
-  Title: PlOszukiwacz's Blug
+  Title: PlOszukiwacz's Blog
   Icon: icon.png
   Description: PlOszukiwacz's Blog
   Link: github.com/PlOszukiwaczDEV/blog
-  Theme: Default
+  Theme: CatppuccinMocha
 
 Connections:
   GitHub: PlOszukiwaczDEV
   GitLab: 
-  Bluesky:
-  Twitter:
-  Mastodon:
+  Bluesky: ploszukiwacz.bsky.social
+  Twitter: ploszukiwacz
+  Mastodon: ploszukiwacz
   Medium:
-  Twitch:
-  YouTube:
+  Twitch: ploszukiwacz
+  YouTube: realploszukiwacz
